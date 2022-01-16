@@ -7,5 +7,6 @@ public class Main {
         // Сашкин коммит
         // моя первая задача
         // рекламный баннер
+        System.out.println("BANNER");
     }
 }
